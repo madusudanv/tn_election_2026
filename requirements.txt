@@ -1,0 +1,13 @@
+supabase
+playwright
+httpx
+beautifulsoup4
+transformers
+torch
+python-dotenv
+pandas
+pydantic
+tqdm
+google-api-python-client
+tweepy
+playwright
