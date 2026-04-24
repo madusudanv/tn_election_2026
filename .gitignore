@@ -40,3 +40,17 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
+
+# Scratch / experiments
+scratch/
+
+# Agent skills & config
+.agents/
+skills/
+skills-lock.json
+
+# Data files
+data/
